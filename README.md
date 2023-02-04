@@ -17,7 +17,7 @@ Step1:
 # For Task 1: MECPE
 python -u step1.py --use_x_a yes  --use_x_v yes --scope BiLSTM_A_V
 python -u step1.py --model_type BERTcased --use_x_a yes  --use_x_v yes --scope BERT_A_V
-# For Task 1: MECPE-Cat
+# For Task 2: MECPE-Cat
 python -u step1.py --choose_emocate yes --use_x_a yes  --use_x_v yes --scope BiLSTM_A_V_emocate
 python -u step1.py --model_type BERTcased --choose_emocate yes --use_x_a yes  --use_x_v yes --scope BERT_A_V_emocate
 ```
