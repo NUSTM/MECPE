@@ -1,0 +1,1311 @@
+18 13
+(3,3),(6,5),(6,6),(10,8),(10,9),(11,11),(12,8),(12,9),(12,11)
+1 | Monica | neutral | Alright . Phoebe ?
+2 | Phoebe | neutral | Okay , okay .
+3 | Phoebe | joy | If I were omnipotent for a day , I would want , um , world peace , no more hunger , good things for the rain ... forest ... And bigger boobs !
+4 | Ross | neutral | Yeah , see . . you took mine . Chandler , what about you ?
+5 | Chandler | neutral | Uh , if I were omnipotent for a day , I would . . make myself omnipotent forever .
+6 | Rachel | disgust | See , there is always one guy . " If I had a wish , I would wish for three more wishes . "
+7 | All | neutral | Hey Joey . Hi . Hey , buddy .
+8 | Monica | neutral | Hey , Joey , what would you do if you were omnipotent ?
+9 | Joey | sadness | Probably kill myself !
+10 | Monica | surprise | . . Excuse me ?
+11 | Joey | sadness | Hey , if Little Joey dead , then I got no reason to live !
+12 | Ross | surprise | Joey , uh ... OMnipotent .
+13 | Joey | neutral | You are ?
+23 6
+(1,1),(3,3),(4,4),(5,4),(6,6)
+1 | Ross | anger | Get him ! GET HIM ! Get him ! Get ... YESSS ! Not laughing now , are you pal !
+2 | Chandler | neutral | See buddy , that is all you need , a bunch of toothless guys hitting each other with sticks .
+3 | Ross | joy | Pass it ! Pass it !
+4 | Chandler | joy | He is open !
+5 | All | joy | Shoot ! Shoot ! Shoot !
+6 | Chandler | surprise | Hey , look , we are on that TV thing !
+28 9
+(2,2),(7,4),(7,6),(8,4),(8,6),(8,8),(9,4),(9,6),(9,8)
+1 | Chandler | anger | Well , what ? What ? What is it ? That she left you ? That she likes women ? That she left you for another woman that likes women ?
+2 | Ross | anger | Little louder , okay , I think there is a man on the twelfth floor in a coma that did not quite hear you ...
+3 | Chandler | neutral | Then what ?
+4 | Ross | neutral | My first time with Carol was ...
+5 | Joey | neutral | What ?
+6 | Ross | neutral | It was my first time .
+7 | Joey | surprise | With Carol ? Oh .
+8 | Chandler | surprise | So in your whole life , you have only been with one ... ... oh .
+9 | Joey | surprise | Whoah , boy , hockey was a big mistake ! There was a whole bunch of stuff we could have done tonight !
+65 4
+(4,4)
+1 | Ross | neutral | How we doing , you guys ready ?
+2 | Monica | neutral | Mom already called this morning to remind me not to wear my hair up . Did you know my ears are not my best feature ?
+3 | Ross | neutral | Some days it is all I can think about .
+4 | Phoebe | sadness | Hi , sorry I am late , I could not find my bearings .
+71 11
+(7,7),(8,8),(9,8),(9,9),(11,11)
+1 | Carol | neutral | Anytime you are ready .
+2 | Ross | neutral | Ok , ok , here we go .
+3 | Ross | neutral | Ok , where am I talking to , here ?
+4 | Ross | neutral | I mean , uh , well , there is one way that seems to offer a certain acoustical advantage , but ...
+5 | Carol | neutral | Just aim for the bump .
+6 | Ross | neutral | Ok , ok , ok , ok , here goes .
+7 | Ross | sadness | You know , I , you know , can not do this .
+8 | Ross | disgust | Uh , this is too weird .
+9 | Ross | sadness | I feel stupid .
+10 | Carol | neutral | So do not do it , it is fine . You do not have to do it just because Susan does it .
+11 | Ross | joy | Hello , baby . Hello , hello .
+74 10
+(5,4),(8,8)
+1 | Phoebe | neutral | Oh , hi Max ! Hey , do you know everybody ?
+2 | Max | neutral | No . Have you seen David ?
+3 | Phoebe | neutral | No , no , he has not been around .
+4 | Max | neutral | Well , if you see him , tell him to pack his bags . We are going to Minsk .
+5 | Phoebe | surprise | Minsk ?
+6 | Max | neutral | Minsk . It is in Russia .
+7 | Phoebe | neutral | I know where Minsk is .
+8 | Max | joy | We got the grant . Three years , all expenses paid .
+9 | Phoebe | neutral | So when , when do you leave ?
+10 | Max | neutral | January first
+116 11
+(1,3),(3,3),(4,3),(4,4),(9,5),(9,6),(9,7),(9,8),(9,9)
+1 | Monica | anger | Wendy , we had a deal ! Yeah , you promised ! Wendy ! Wendy ! Wendy !
+2 | Rachel | neutral | Who was that ?
+3 | Monica | sadness | Wendy bailed . I have no waitress .
+4 | Rachel | sadness | Oh ... that is too bad . Bye bye .
+5 | Monica | neutral | Ten dollars an hour .
+6 | Rachel | neutral | No .
+7 | Monica | neutral | Twelve dollars an hour .
+8 | Rachel | neutral | Mon . I wish I could , but I have made plans to walk around .
+9 | Monica | anger | You know , Rachel , when you ran out of your wedding , I was there for you . I put a roof over your head , and if that means nothing to you ...
+10 | Monica | neutral | Twenty dollars an hour .
+11 | Rachel | neutral | Done .
+132 8
+(6,6),(8,8)
+1 | Joey | neutral | All right , I will give you this , Mr . Peanut is a better dresser .
+2 | Joey | neutral | I mean he is got the monocle , he is got the top hat ...
+3 | Phoebe | neutral | You know he is gay ?
+4 | Ross | neutral | I just wanna clarify this : are you outing Mr . Peanut ?
+5 | Danielle | neutral | Chandler ? |
+6 | Chandler | joy | Danielle ! Hi ! Uh ... everybody , this is Danielle , Danielle , everybody .
+7 | All | neutral | Hi .
+8 | Chandler | surprise | What are you doing here ?
+151 14
+(1,1),(1,3),(2,1),(2,2),(3,1),(3,3),(4,1),(4,2),(4,3),(5,3),(5,4),(5,5),(6,6),(7,6),(7,7),(8,8),(8,7),(9,8),(9,7),(10,8),(10,7),(10,10),(10,11),(11,8),(11,7),(11,10),(11,11),(13,13)
+1 | Ross | anger | Oh , please . This is so your fault .
+2 | Susan | surprise | How , how is this my fault ?
+3 | Ross | anger | Look , Carol never threw me out of a room before you came along .
+4 | Susan | anger | Yeah ? Well , there is a lot of things Carol never did before I came along .
+5 | Ross | anger | You trying to be clever ? A funny lady ? |
+6 | Susan | disgust | You know what your problem is ? You are so threatened by me . |
+7 | Ross | surprise | Oh , I am threatened by you ? |
+8 | Phoebe | anger | Hey , hey , ok , all right , that is it ! Get in here . Come on .
+9 | Phoebe | surprise | My god , you guys , I do not believe you .
+10 | Phoebe | anger | There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing .
+11 | Phoebe | anger | So just stop all the yelling , just stop it !
+12 | Ross | neutral | Yeah , Susan .
+13 | Phoebe | anger | Do not make me do this again , I do not like my voice like this .
+14 | Phoebe | neutral | Ok , who wants to hear something ironic ?
+156 13
+(1,1),(2,1),(2,2),(2,3),(3,1),(3,2),(3,3),(4,2),(4,3),(5,4),(6,6),(7,6),(7,7),(9,9),(9,12),(11,11),(12,11)
+1 | Ross | sadness | Come on , come on .
+2 | Ross | anger | Damnit , damnit , damnit , damnit . This is all your fault .
+3 | Ross | anger | This is supposed to be , like , the greatest day of my life , you know ? My son is being born , and I should be in there , you know , instead of stuck in a closet with you .
+4 | Susan | anger | The woman I love is having a baby today . I have been waiting for this just as much as you have .
+5 | Ross | anger | No no no , believe me . No one has been waiting for this as much as I have , ok ?
+6 | Ross | anger | And you know what the funny thing is ? When this day is over , you get to go home with the baby , ok ? Where does that leave me ?
+7 | Susan | anger | You get to be the baby father . Everyone knows who you are . Who am I ? There is Mother Day , there is Father Day , there is no ... Lesbian Lover Day .
+8 | Ross | neutral | Every day is Lesbian Lover Day .
+9 | Phoebe | joy | This is so great .
+10 | Ross | neutral | You wanna explain that ?
+11 | Phoebe | sadness | I mean , well , cause when I was growing up , you know my dad left , and my mother died , and my stepfather went to jail , so I barely had enough pieces of parents to make one whole one .
+12 | Phoebe | sadness | And here is this little baby who has like three whole parents who care about it so much that they are fighting over who gets to love it the most . And it is not even born yet . It is just , it is just the luckiest baby in the whole world .
+13 | Phoebe | sadness | I am sorry , you were fighting .
+173 7
+(1,1),(2,2),(3,2),(6,3),(6,5),(6,6),(7,2),(7,6),(7,7)
+1 | Rachel | joy | Ok , Paulo , why do not you just go get dressed , and then you be on your way , ok , bye ... bye .
+2 | Monica | surprise | Rachel , how did this happen ?
+3 | Rachel | fear | I do not know , I just kinda ran into him last night .
+4 | Phoebe | neutral | Where ?
+5 | Rachel | neutral | At his apartment . Is this juice ?
+6 | Joey | anger | Whoa , whoa . And the fact that you dumped him because he hit on Phoebe ?
+7 | Rachel | sadness | Oh God , I know I am a pathetic loser .
+174 6
+(1,1),(1,3),(1,4),(2,1),(3,1),(3,3),(3,4),(4,1),(4,3),(4,4),(5,4),(5,5),(6,5)
+1 | Phoebe | anger | All right , that is it , I quit .
+2 | Monica | surprise | What ? I did not say anything .
+3 | Phoebe | anger | Yeah , but this is not the face of a person who trusts a person .
+4 | Phoebe | anger | Ok , this is the face of a person who , you know , does not trust a person .
+5 | Monica | sadness | I am sorry . I am sorry , Phoebe . It is just a little shorter than what we had discussed .
+6 | Phoebe | anger | Would you relax ? I know what I am doing . This is how he wears it .
+175 8
+(4,4),(7,7)
+1 | Rachel | sadness | How is she ?
+2 | Phoebe | neutral | It is too soon to tell . She is resting , which is a good sign .
+3 | Ross | sadness | How the hair ?
+4 | Phoebe | sadness | I am not gonna lie to you , Ross , it does not look good .
+5 | Phoebe | neutral | I put a clip on one side , which seems to have stopped the curling .
+6 | Joey | neutral | Can we see her ?
+7 | Phoebe | sadness | Your hair looks too good , I think it would upset her . Ross , why do not you come on in .
+8 | Joey | sadness | How are you doing ?
+181 13
+(2,2),(2,1),(3,1),(3,2),(4,1),(4,4),(5,1),(5,2),(5,4),(7,7),(7,1),(7,2),(7,4),(8,7),(8,8),(9,7),(9,9),(10,10),(11,9),(11,10),(13,9),(13,10),(13,12)
+1 | Phoebe | neutral | Ok . |
+2 | Chandler | disgust | What did you just do ? |
+3 | Phoebe | surprise | I licked my arm , what ?
+4 | Ross | surprise | It is breast milk .
+5 | Phoebe | surprise | So ?
+6 | Rachel | neutral | Phoebe , that is juice , squeezed from a person .
+7 | Joey | anger | What is the big deal ?
+8 | Chandler | disgust | What did you just do ?
+9 | Ross | disgust | Ok , would people stop drinking the breast milk ?
+10 | Phoebe | surprise | You will not even taste it ?
+11 | Ross | disgust | No !
+12 | Phoebe | neutral | Not even if you just pretend that it is milk ?
+13 | Ross | disgust | Not even if Carol breast had a picture of a missing child on it .
+182 16
+(2,4),(3,2),(4,4),(5,4),(6,4),(7,4),(7,6),(8,7),(9,4),(9,6),(10,9),(10,8),(11,10),(11,11),(12,12),(13,12),(13,13),(14,12),(14,14),(15,12),(15,14),(15,15),(16,16)
+1 | Monica | neutral | Julie .
+2 | Rachel | surprise | What ? !
+3 | Monica | fear | Jody !
+4 | Rachel | surprise | You were with Julie ?
+5 | Monica | sadness | Look , when it started I was just trying to be nice to her because she was my brother girlfriend .
+6 | Monica | sadness | And then , one thing led to another and , before I knew it , we were ... shopping .
+7 | Rachel | surprise | Oh my God .
+8 | Monica | sadness | Honey , wait . We only did it once . It did not mean anything to me .
+9 | Rachel | anger | Yeah , right . Sure !
+10 | Monica | sadness | Really , Rachel , I was thinking of you the whole time .
+11 | Monica | sadness | Look , I am sorry , all right . I never meant for you to find out !
+12 | Rachel | anger | Oh , please , you wanted to get caught .
+13 | Monica | anger | That is not true !
+14 | Rachel | anger | Oh , so you just sort of happened to leave it in here ?
+15 | Monica | anger | Did it ever occur to you that I might just be that stupid ?
+16 | Rachel | sadness | Ok , Monica . I just have to know one thing . Did you go with her to Bloomingdales ?
+183 12
+(2,2),(3,2),(6,5),(6,6),(8,8),(10,8),(10,10),(12,8),(12,10)
+1 | Chandler | neutral | Of course the packaging does appeal to grown ... ups and kids alike .
+2 | Carol | joy | Ross , you are being silly . I have tried it , it is no big deal . Just taste it .
+3 | Ross | disgust | That would be no .
+4 | Phoebe | neutral | Come on . It does not taste bad .
+5 | Joey | neutral | Yeah , it is kinda sweet , sorta like , uh ...
+6 | Susan | joy | Cantaloupe juice .
+7 | Joey | neutral | Exactly .
+8 | Ross | surprise | You have tasted it ? You have tasted it .
+9 | Susan | neutral | Uh huh .
+10 | Ross | anger | Oh , you have tasted it .
+11 | Susan | neutral | You can keep saying it , but it will not stop being true .
+12 | Ross | anger | Gimme the bottle . Gimme the towel .
+211 3
+(2,1),(3,3)
+1 | Joey | fear | Ben !
+2 | Chandler | anger | Oh , that is good . Maybe he will hear you and pull the cord .
+3 | Joey | fear | Stop the bus ! Wait ! Wait ! Wait !
+212 6
+(1,1),(3,1),(3,2),(4,4)
+1 | Monica | sadness | Are you sure he did not break it because it really hurts ?
+2 | Doctor | neutral | No , it is just a good bone bruise . And , right here is the puncture wound from your ring .
+3 | Ross | sadness | Oh , I am sorry , I am really sorry .
+4 | Ross | joy | Sorry . Sorry ! Hey ! Hey ! I got my s back !
+5 | Ross | neutral | Which we can celebrate later .
+6 | Ross | neutral | Celebrate . Celebrate ...
+215 4
+(1,1),(2,1),(3,1),(3,3),(4,3),(4,4)
+1 | Ross | anger | You had no right to tell me you ever had feelings for me .
+2 | Rachel | surprise | What ?
+3 | Ross | anger | I was doing great with Julie before I found out about you .
+4 | Rachel | anger | Hey , I was doing great before I found out about you . You think it is easy for me to see you with Julie ?
+216 8
+(1,1),(2,1),(2,2),(3,1),(3,3),(4,1),(4,2),(4,3),(5,4),(6,1),(6,2),(6,3),(7,6),(8,7)
+1 | Ross | anger | The point is I ... I do not need this right now , Okay . It , it is too late , I am with somebody else , I am happy . This ship has sailed .
+2 | Rachel | anger | Yeah , what are you saying , you just sort of put away feelings or whatever the hell it was you felt for me ? |
+3 | Ross | anger | Hey , I have been doing it since the ninth grade , I have gotten pretty damn good at it . |
+4 | Rachel | anger | Alright , fine , you go ahead and you do that , alright Ross .
+5 | Ross | anger | Fine .
+6 | Rachel | anger | Cause I do not need your stupid ship .
+7 | Ross | anger | Good .
+8 | Rachel | anger | Good .
+224 13
+(4,4),(5,5),(6,6),(7,7)
+1 | Rachel | neutral | Nooo Way ! The most romantic song ever is The Way We Were .
+2 | Phoebe | neutral | See , I ... I think that one that Elton John wrote for , um , that guy on Who The Boss .
+3 | Rachel | neutral | What song was that , Pheebs ?
+4 | Phoebe | joy | Hi Monica !
+5 | Ross | joy | Hey Mon !
+6 | Rachel | joy | Hey Mon !
+7 | Phoebe | surprise | Oh my God , has she slept at all ?
+8 | Ross | neutral | Nope .
+9 | Rachel | neutral | No , it is been three nights in a row .
+10 | Ross | neutral | Yeah , she finally stopped crying yesterday , but then she found one of Richard cigar butts out on the terrace , so .
+11 | Phoebe | neutral | Oh , okay that explains it .
+12 | Phoebe | neutral | I got a call at two in the morning , but all I could hear was , like , this high squeaky sound , so I thought okay its like a mouse or a opossum .
+13 | Phoebe | neutral | But then I realized where would a mouse or a opossum get the money to make the phone call .
+229 16
+(2,2),(9,8),(9,9),(10,7),(10,10),(11,7),(11,10),(12,7),(12,10),(12,12),(13,13),(14,7),(14,10),(14,12),(15,14),(16,7),(16,10),(16,12),(16,16)
+1 | Chandler | joy | I know !
+2 | Ross | surprise | Yes ! Wow , well , that ... that was easy . Okay , you ... you go .
+3 | Chandler | neutral | Okay .
+4 | Ross | neutral | Okay .
+5 | Chandler | neutral | Okay , you know , you know when your in bed , with a woman .
+6 | Ross | neutral | Hmph .
+7 | Chandler | neutral | And , ah , you know , your fooling around with her .
+8 | Chandler | neutral | And you get all these like , mental images in your brain , you know , like Elle MacPherson , or that girl at the Xerox place ...
+9 | Ross | joy | With the belly ... button ring ? Oh , muhawa !
+10 | Chandler | anger | I know , And then all of the sudden your Mom pops into your head .
+11 | Chandler | anger | And your like Mom , get outta here !
+12 | Chandler | disgust | You know , but of course , like , after that you can not possibly think of anything else , and you can not , you know , stop what your doing . So it is kinda like , you are ...
+13 | Chandler | surprise | You know ... You know ... You do not know !
+14 | Ross | disgust | Your Mom ? You are telling me , you are telling me about your Mom ? What is the matter with you ?
+15 | Chandler | anger | You said ...
+16 | Ross | anger | I said share not scare !
+270 14
+(1,3),(1,5),(2,2),(3,3),(3,5),(4,3),(5,3),(5,5),(6,5),(7,5),(7,7),(7,8),(8,5),(8,7),(8,8),(9,9),(10,9),(11,9),(11,10),(12,3),(12,5),(12,13),(13,3),(13,5),(13,13),(14,13)
+1 | Ross | sadness | Hi . Where is everybody ?
+2 | Phoebe | sadness | Oh , it is already closed , Chris gave me the keys to lock up ... what is wrong ?
+3 | Ross | sadness | My marriage , I think my marriage is um , is kinda over .
+4 | Phoebe | surprise | Oh no ! Why ?
+5 | Ross | sadness | Cause Carol a lesbian . And , and I am not one . And apparently it is not a mix and match situation .
+6 | Phoebe | surprise | Oh my God ! I do not believe it ! Oh , you poor bunny .
+7 | Ross | sadness | I am an idiot .
+8 | Ross | sadness | I mean shoulda seen it , I mean Carol and I would be out and she would , she would see some beautiful woman , and , and she would be Ross you know look at her , and I would think , God , my wife is cool !
+9 | Phoebe | surprise | Aw ! Hey , do you think that Susan person is her lover ?
+10 | Ross | surprise | Well , now I do ! !
+11 | Phoebe | sadness | I am sorry .
+12 | Ross | sadness | Seven years .
+13 | Ross | sadness | I mean we have been together seven years , she is the only woman who ever loved me , and the only woman I have ... I have ever ... .
+14 | Phoebe | sadness | Aw , God Ross . Oh .
+285 10
+(5,5),(6,5),(8,6),(8,7),(8,8),(9,9)
+1 | Rachel | neutral | I promise .
+2 | Phoebe | neutral | Although , do not feel like you can not visit .
+3 | Joey | neutral | Hey , is , is , is Chandler here ?
+4 | Ross | neutral | No , no he is not .
+5 | Monica | surprise | You guys , Joey just saw Janice kissing her ex ... husband .
+6 | Ross | surprise | What ? So what are you going to do ? I mean how , how are you going to tell Chandler ?
+7 | Joey | neutral | Well , I was thinking about that and I , I think the best way would be , to not .
+8 | Rachel | sadness | Joey , you can not keep this to yourself , if you know about this , you have to tell him .
+9 | Joey | fear | It will kill him . I mean it will , it will just kill him .
+10 | Phoebe | neutral | Well , you could wait til I go to the dentist , maybe
+286 8
+(2,2),(3,3),(4,4),(7,7),(8,7),(8,8)
+1 | Monica | neutral | Where are we gonna find a tiny little hat ?
+2 | Rachel | joy | Oh , oh , oh , I will get Rainy Day Bear ! !
+3 | Monica | joy | Because he will know what to do ? Oh my God , you are a genius !
+4 | Rachel | fear | Oh God , oh God , it is sowed on though .
+5 | Monica | neutral | Give it . Give it .
+6 | Rachel | neutral | Okay .
+7 | Monica and Rachel | surprise | Oh ! !
+8 | Rachel | sadness | Oh , it is just like a bloodbath in here today .
+295 1
+
+1 | Rachel | neutral | We should defiantly play football more often . Maybe there is a like league we could join or something .
+317 9
+(2,1),(3,3),(5,3),(8,8),(8,4),(9,8)
+1 | Cookie | neutral | I will do it .
+2 | Joey | surprise | No , you will not !
+3 | Joey | sadness | Look he knows he did a terrible thing and I believe him , he is sorry .
+4 | Joey | neutral | But , you have got one more apology to make , all right , you have got to apologize to Mary ... Angela .
+5 | Chandler | joy | Okay , absolutely !
+6 | Joey | neutral | All right .
+7 | Chandler | neutral | You have got it .
+8 | Joey | anger | Cookie , now you can punch him !
+9 | Chandler | surprise | What ? !
+321 1
+
+1 | Mark | neutral | Oh , hi . It is Mark .
+322 4
+(2,1),(3,2)
+1 | Jeannine | neutral | All right , I just got changed in thirty seconds so you can be alone with him . You would better go for it .
+2 | Monica | disgust | Please , I am not going for anything .
+3 | Jeannine | anger | Well , if you do not , I will .
+4 | Monica | joy | Would you please go ?
+375 12
+(4,2),(10,9),(12,9),(12,12)
+1 | Chandler | neutral | Here we go . Okay , brace yourselves .
+2 | Monica | neutral | What ?
+3 | Monica | neutral | Okay .
+4 | Monica | surprise | Ow !
+5 | Phoebe | neutral | Are not you gonna go ?
+6 | Rachel | neutral | No . Thank you .
+7 | Monica | neutral | No , Rachel never pees in public restrooms .
+8 | Rachel | neutral | Well , they never have any paper in there you know . So my rule is no tissue , no tuschy . Well , if everybody going .
+9 | Phoebe | neutral | No , you know what do not close it cause the ... keys ... are in there .
+10 | Chandler | fear | Oh , no ... no ... no ... no ... no ... no ! !
+11 | Joey | neutral | What going on ?
+12 | Chandler | anger | My lighter in there !
+376 11
+(6,6),(7,7),(8,7),(10,9)
+1 | Carol | neutral | Hey , what are you doing here ?
+2 | Ross | neutral | Well , oh just ah , I was just wondering , when you and I split up , did you get the tape that was half the last episode of
+3 | Carol | neutral | Ah yeah , but now it is Susan and me in Mexico and the hostages coming home .
+4 | Ross | neutral | Where is Ben ?
+5 | Carol | neutral | He is sleeping .
+6 | Ross | surprise | Ahh . Ooh , is this a ah , is this a bad time ?
+7 | Carol | joy | Umm , yeah , actually , Susan gonna be home any minute , it is kinda an anniversary .
+8 | Ross | surprise | Oh ! I thought you guys got married in uh , January ?
+9 | Carol | neutral | It is not that kind of anniversary .
+10 | Ross | surprise | Ah ! Oh .
+11 | Carol | neutral | Sooo ! ! Anyway ...
+398 22
+(1,1),(2,2),(4,4),(5,4),(6,6),(8,8),(9,8),(9,9),(10,8),(10,10),(13,13),(15,14),(17,12),(17,16),(17,17),(19,19)
+1 | Monica | joy | Look at it ! Ohhh ! Wallpaper a little faded , that is okay . Carpet a little loose . Hardwood floors ! !
+2 | Phoebe | joy | Hey !
+3 | Chandler | neutral | Hello .
+4 | Phoebe | joy | Oh ! Ooh ! Oh Monica ! It is so beautiful .
+5 | Monica | joy | I know ! ! !
+6 | Phoebe | joy | So , I am here , ready to play .
+7 | Monica | neutral | Okay .
+8 | Phoebe | joy | I brought a bunch of stuff for the house , so check it out . Ha ... ha .
+9 | Monica | surprise | What this ?
+10 | Phoebe | joy | That is a dog , every house should have a dog .
+11 | Monica | neutral | Not one that can pee on the roof .
+12 | Phoebe | neutral | Well , maybe it is so big because the house was built on radioactive waste .
+13 | Chandler | surprise | And is this in case the house sneezes ?
+14 | Phoebe | neutral | No , no , that is the ghost for the attic .
+15 | Monica | fear | I do not want a ghost .
+16 | Phoebe | neutral | Well , nobody wants a ghost . But you have got one , because the house is sitting on an ancient Indian burial ground .
+17 | Ross | surprise | Wait a minute , the house was built on radioactive waste , and an ancient Indian burial ground ? That would never happen .
+18 | Phoebe | neutral | Okay , obviously you do not know much about the U . S . government .
+19 | Rachel | surprise | Hey !
+20 | All | neutral | Hello .
+21 | Rachel | joy | I need to talk to you !
+22 | Ross | neutral | Sure , what up ?
+399 9
+(1,1),(3,3),(4,4),(5,5),(6,6),(7,6),(7,7),(8,8)
+1 | Monica | joy | Hey , guys , guys , did you see my new , china cabinet ? !
+2 | Ross and Rachel | neutral | Uh ... huh .
+3 | Phoebe | joy | Watch , watch .
+4 | Ross and Rachel | surprise | Ooohhhh ! !
+5 | Phoebe | joy | And , and !
+6 | Ross and Rachel | surprise | Ahhhh ! !
+7 | Chandler | surprise | Hey , my Father house does that !
+8 | Rachel | joy | O ... o ... o ... okay , how did it go ? Tell me everything .
+9 | Chandler | neutral | Well , the movie was great , dinner was great , and there is nothing like a cool , crisp New York evening .
+411 6
+(1,1),(2,1),(2,2),(3,5),(4,3),(5,5),(6,5)
+1 | Monica | joy | Hey !
+2 | Phoebe | joy | Hey !
+3 | Monica | joy | Hey , guess what I am doing tonight .
+4 | Phoebe | surprise | What ?
+5 | Monica | joy | I am checking out the restaurant with Pete .
+6 | Phoebe | joy | Ohh , Monica , I am so excited for you .
+413 12
+(1,1),(6,6),(10,10),(11,10),(12,12)
+1 | Ross | fear | Easy . Easy . You have to go to the hospital . Okay ?
+2 | Rachel | neutral | Okay , I do .
+3 | Ross | neutral | Okay .
+4 | Rachel | neutral | I really do .
+5 | Ross | neutral | Okay , I am gonna get your coat and then I will ... I will put you in a cab .
+6 | Rachel | sadness | Okay . Oh wait , wait ... wait , you are not gonna come with me ?
+7 | Ross | neutral | Of course I am . I just have to make a call .
+8 | Rachel | neutral | Okay .
+9 | Ross | neutral | Okay ?
+10 | Rachel | surprise | Thank you . Oww ! ! ! ! God !
+11 | Ross | fear | What ? ! I wh ... , what wrong ?
+12 | Rachel | disgust | I am sorry , I just can not go to the hospital lookin like this .
+422 17
+(5,5),(7,6),(8,8),(9,8),(10,10),(11,10),(12,10),(14,14),(15,14),(16,14),(17,17),(17,14)
+1 | Stage Manager | anger | Joey , onstage !
+2 | Joey | sadness | Well can you at least stay to the end of the play ?
+3 | Joey | sadness | I mean , I will go to the airport with you , I ... I wanna say good bye .
+4 | Lauren | neutral | Where are you Vic ?
+5 | Kate | sadness | Flight in an hour . I ... I gotta go .
+6 | Lauren | anger | Vic ! Vic !
+7 | Joey | anger | In a minute ! !
+8 | Lauren | sadness | So this is it ? Victor ?
+9 | Joey | sadness | Yeah , I guess it is .
+10 | Joey | sadness | Listen , I ah , I gotta say good bye , and ... and I gotta say it quick cause this is killing me .
+11 | Joey | sadness | One thing you gotta know , is that I will never forget you .
+12 | Joey | sadness | But , you have got things you have to do now , and so do I .
+13 | Joey | neutral | And so ... I am gonna get on this spaceship , and I am gonna go to Blargon 7 in search of alternative fuels .
+14 | Joey | sadness | But when I return , 200 years from now , you will be long gone .
+15 | Joey | sadness | But I will not have aged at all .
+16 | Joey | sadness | So you tell your great ... great ... granddaughter to look me up , because Adrienne , baby , I am gonna want to meet her .
+17 | Lauren | sadness | So long , Vic !
+441 11
+(2,1),(3,3),(4,4),(5,4),(7,7),(8,7),(9,7),(9,9),(10,10),(10,11)
+1 | TV Announcer | neutral | Pete Becker is circling the ring now . It looks like , he is just trying to feel him out . Oh , Bruiser is charging !
+2 | Chandler | fear | Run ! Run you crazy , rich freak !
+3 | Rachel | fear | Oh , I can not watch this .
+4 | Joey | surprise | Check it out , he is winning ! Pete winning !
+5 | Monica | surprise | Really ? !
+6 | Joey | joy | No ... o ... o ! !
+7 | TV Announcer | fear | Uh ... oh , Bruiser has Becker on the canvas and is going for his favourite area .
+8 | All | disgust | Oh ! Oh !
+9 | Phoebe | sadness | Wait , if that is his favourite area , why is he being so mean to it ?
+10 | Ross | sadness | Well , this is ironic .
+11 | Ross | neutral | Of your last two boyfriends , Richard did not want to have kids , and from the looks of it , now Pete can not .
+447 3
+(1,1)
+1 | Chandler | surprise | So , you still do not think I am boyfriend material ?
+2 | Monica | neutral | Huh ?
+3 | Chandler | neutral | I saw you checking me out during the game last night .
+462 5
+(2,2),(4,3),(4,4)
+1 | Phoebe | anger | I , umm , shut up !
+2 | Phoebe | surprise | " Good ... bye Phoebe and Ursula . I will miss you . P . S . Your Mom lives in Montauk . " You just wrote this !
+3 | Ursula | neutral | Well , it is pretty much the gist . Well , except for the poem . You read the poem , right ?
+4 | Phoebe | surprise | Noooo ! !
+5 | Ursula | neutral | All right , hang on !
+477 1
+(1,1)
+1 | Joey | anger | Dude , you do not have to brag ! We got nothing here ! !
+483 16
+(1,1),(2,1),(2,2),(3,3),(6,5),(6,6),(8,7),(10,7),(10,9),(10,10),(11,10),(12,12),(14,13)
+1 | Ross | joy | Or ! Or , we could go to the bank , close our accounts and cut them off at the source .
+2 | Chandler | joy | You are a genius !
+3 | Joey | sadness | Aww , man , now we will not be bank buddies !
+4 | Chandler | neutral | Now , there is two reasons .
+5 | Phoebe | neutral | Hey .
+6 | All | joy | Hey !
+7 | Phoebe | neutral | Ohh , you guys , remember that cute client I told you about ? I bit him .
+8 | Rachel | surprise | Where ? !
+9 | Phoebe | neutral | On the touchy .
+10 | Ross | disgust | And that’s not against your oath ? !
+11 | Phoebe | anger | No , I know !
+12 | Phoebe | anger | I ... I am sorry , but the moment I touch him , I just wanna throw out my old oath and take a new , dirty one .
+13 | Monica | neutral | Well , next time your massaging him , you should try and distract yourself .
+14 | Joey | joy | Yeah ! Yeah ! Yeah ! Like ... like when I am doing something exciting and I do not wanna get too excited
+15 | Chandler | neutral | Thank you , Joey .
+16 | Joey | neutral | No ... no , thank you .
+494 2
+(1,1),(2,2)
+1 | Phoebe | sadness | Oh my God , he is lost it . He is totally lost it .
+2 | Monica | surprise | What ?
+501 11
+(1,1),(3,2),(3,3),(4,4),(5,4),(7,4),(8,8),(10,9),(11,11)
+1 | Rachel | joy | And that is I am so glad ... there is no problem .
+2 | Joanna | neutral | That is fine , actually I am on the hiring committee , so there will be at least one friendly face .
+3 | Rachel | joy | Ohh ! That is great !
+4 | Joanna | disgust | You know , Junior Miss is where I started . Oh , I had to sleep with the ugliest guy to get that job .
+5 | Rachel | surprise | Really ? !
+6 | Joanna | joy | No ... ho ... ho !
+7 | Joanna | disgust | Yeah .
+8 | Joanna | joy | I mean , no ... no ... no ... no ... no , do not you worry , I am sure with your qualifications you will not need to sleep with some guy to get that job .
+9 | Joanna | neutral | Although , I might need some convincing .
+10 | Rachel | fear | Well , I , umm
+11 | Joanna | joy | Kidding ! God , I feel wild today !
+530 12
+(2,2),(5,5),(6,5),(6,6),(7,7),(8,7),(8,8),(9,9),(12,11)
+1 | Chandler | neutral | So uh , man , are you gonna go see the play with me tonight ?
+2 | Ross | disgust | you know what , I do not know how comfortable I am going to see how hot the sex is between some guy and your girlfriend .
+3 | Chandler | neutral | Yeah , I know but
+4 | Ross | neutral | Oh no ... no ... no , I am there .
+5 | Monica | joy | Hey !
+6 | Joey | joy | Hey Mon ! Want some pancakes ?
+7 | Monica | surprise | You made pancakes ?
+8 | Joey | joy | Yep ! Grab a plate .
+9 | Joey | joy | No ... no , stay right there . Getting closer .
+10 | Chandler | neutral | Okay , okay , but do not worry , because we also have cereals , muffins , waffles ,
+11 | Joey | neutral | Listen also we are uh , we are watching the game here Saturday night , if people want to come over .
+12 | Ross | joy | Oh yeah !
+557 3
+(2,3),(3,3)
+1 | Rachel | neutral | Ohh , here you are . I was looking for you before . Joshua gone so you and Emily are free to go .
+2 | Ross | sadness | That is okay .
+3 | Ross | sadness | She is still in there enjoying her fake party and uh , it is too late to do any of the things I had planned , so
+616 5
+(1,1),(5,5)
+1 | Ross | surprise | Ah ! Ah ! I forgot my jacket !
+2 | Ross | fear | You tell them to wait !
+3 | Rachel | neutral | Okay . Wait ! Wait !
+4 | Ross | neutral | Emily .
+5 | Ross | anger | Oh no ... no ... no ! Oh ... no ! No ! No ! Emily !
+622 15
+(2,2),(3,3),(4,3),(5,3),(6,3),(7,3),(8,3),(11,11),(12,11),(12,12),(13,13)
+1 | Joey | neutral | Ross ! Get a shot of this .
+2 | Phoebe | surprise | Oh , okay , I am having another one !
+3 | Phoebe | surprise | This one does not hurt either ... Ooh , yes it does !
+4 | Phoebe | surprise | Ow !
+5 | Phoebe | surprise | Ow !
+6 | Phoebe | surprise | Ow !
+7 | Phoebe | surprise | Ow !
+8 | Phoebe | surprise | Ooh !
+9 | Phoebe | sadness | Oh , I was kinda hoping that was it .
+10 | Ross | neutral | Hey , where are Monica and Rachel anyway ?
+11 | Frank | joy | Yeah , I love you . Okay , bye ! Hi !
+12 | Rachel | joy | Hi !
+13 | Frank | fear | That was Alice mom , she said she left five hours ago . She should be here by now !
+14 | Rachel | neutral | Oh , honey , do not worry . She is gonna make it on time .
+15 | Frank | neutral | Yeah .
+626 22
+(2,1),(3,3),(4,5),(5,5),(6,5),(7,7),(8,7),(8,8),(9,9),(10,10),(11,11),(12,12),(13,12),(14,15),(15,15),(16,15),(17,16),(18,18),(19,19),(20,20),(21,20),(21,21),(22,20),(22,21),(22,22)
+1 | Dr. Harad | neutral | Okay . You ready to push again ?
+2 | Phoebe | anger | I already had a baby . Leave me alone .
+3 | Frank | joy | Okay , okay , come on , you can do it . You can do it !
+4 | Frank | joy | Yeah ! !
+5 | Frank | joy | Little Leslie is here !
+6 | Frank | joy | We got another one !
+7 | Frank | surprise | Oh my God , I can not believe I have two ... two children .
+8 | Frank | surprise | How scary is that ?
+9 | Frank | joy | Come on little Chandler , it is time to be born . Come on little Chandler ! Come on !
+10 | Dr. Harad | joy | All right , he is coming . He is coming !
+11 | Frank | surprise | Hey , where is his thing ?
+12 | Frank | surprise | Chandler a girl !
+13 | Chandler | surprise | Oh God , kindergarten flashback .
+14 | Frank | surprise | They musta read the sonogram wrong .
+15 | Frank | surprise | Cause they , cause they thought it was a boy , but Chandler a girl !
+16 | Frank | surprise | Chandler a girl !
+17 | Chandler | joy | Okay , keep saying it !
+18 | Alice | sadness | Am I too late ? !
+19 | Frank | joy | No ... no ah , everything okay . Everybody healthy there is 30 fingers and 30 toes .
+20 | Alice | surprise | We have our babies ?
+21 | Frank | joy | Yeah .
+22 | Alice | joy | Oh , we have our babies .
+658 11
+(2,2),(3,3),(6,5),(6,6),(7,6),(8,8),(9,8),(9,9)
+1 | Ross | neutral | In this life , Phoebe .
+2 | Phoebe | sadness | Oh , this life ! Oh okay no , Chandler is worse .
+3 | Joey | sadness | Man , it must be so cool remembering stuff like that ! I do not have any past life memories .
+4 | Phoebe | neutral | Of course you do not sweetie . You are brand new .
+5 | Rachel | neutral | I know Monica worst Thanksgiving .
+6 | Monica | sadness | Oh , let not tell this story .
+7 | All | sadness | Oh , come on !
+8 | Phoebe | joy | Oh no , I know ! I know ! It is the one where Joey got Monica turkey stuck on his head !
+9 | Rachel | surprise | What ? ! Joey got a turkey stuck on his head ? !
+10 | Joey | neutral | Hey , it is not like it sounds .
+11 | Chandler | neutral | It is exactly like it sounds .
+660 16
+(3,3),(5,5),(6,6),(7,7),(8,7),(8,8),(9,8),(10,8),(10,9),(11,8),(11,11),(12,8),(12,11),(13,8),(13,11),(13,13),(14,8),(14,11),(14,13),(15,8),(15,11),(15,13),(15,15),(16,11),(16,13),(16,15),(16,16)
+1 | Chandler | disgust | Oh ... oh , I am a duck ! I go , " Quack , quack ! " I am happy all the time !
+2 | Chandler | neutral | Nice try .
+3 | Monica | joy | Wait , wait , wait !
+4 | Chandler | neutral | Look , Monica ...
+5 | Monica | surprise | Look !
+6 | Chandler | anger | This is not going to work .
+7 | Monica | joy | I bet this will work !
+8 | Chandler | joy | You are so great ! I love you !
+9 | Monica | surprise | What ?
+10 | Chandler | fear | Nothing ! I said , I said " You are so great " and then I just , I just stopped talking !
+11 | Monica | surprise | You said you loved me ! I can not believe this !
+12 | Chandler | fear | No I did not !
+13 | Monica | joy | Yes , you did !
+14 | Chandler | fear | No I did not !
+15 | Monica | joy | You love me !
+16 | Chandler | anger | No I do not ! Stop it ! Stop it ! Stop it ! Stop it !
+664 8
+(3,3),(4,4)
+1 | Monica | neutral | I guess I set up the video camera to try and entice Joey .
+2 | Joey | neutral | But sadly I could not be enticed .
+3 | Ross | disgust | Unbelievable ! I mean you really kept Joey underwear ? ! Why ? Why would you do that ? !
+4 | Monica | sadness | I am Monica . I am disgusting . I stalk guys and keep their underpants .
+5 | Joey | anger | Well , I think we have all learned something about who disgusting and who not .
+6 | Joey | neutral | Eh ?
+7 | Joey | anger | All right , now , I am going to get back to my bucket .
+8 | Joey | neutral | I am only eating the skin , so the chicken up for grabs .
+672 3
+(1,1),(3,3)
+1 | Ross | anger | And shame on you ! You should know better , Joey needs to work . Now come on !
+2 | Joey | joy | Hey !
+3 | Ross | anger | No ! Ah ... ah ... ah ... ah ... ah ! You can have this back when the five pages are done ! Ahh !
+681 8
+(2,2),(3,2),(3,3),(5,5),(6,6),(7,5),(7,6),(8,7)
+1 | Joey | neutral | Okay , it is a typical New York City apartment . Two girls are just hanging out .
+2 | Monica | joy | Hi , how are you doing Kelly ?
+3 | Rachel | joy | I am doing just fine ! God , Tiffany , you smell so great !
+4 | Monica | neutral | It is my new perfume . Why do not you come closer where you can really appreciate it ?
+5 | Rachel | disgust | Oh , you know Joey , you are sick !
+6 | Monica | disgust | This is disgusting !
+7 | Rachel | disgust | I am not reading this !
+8 | Joey | surprise | What ? ! Wait ... wait ... wait ! The handsome man was about to enter ! !
+684 19
+(1,1),(2,1),(5,3),(5,4),(5,5),(6,5),(7,7),(8,7),(8,8),(10,8),(11,10),(11,11),(12,8),(13,12),(17,13),(17,17),(19,19)
+1 | Phoebe | anger | Tiger ! Dragon ! Iceberg ! ! Joseph , did you even study at all last night ?
+2 | Joey | anger | Yes ! Yes , I did .
+3 | Phoebe | anger | Then do Iceberg !
+4 | Joey | neutral | G ... sharp .
+5 | Phoebe | surprise | G ... sharp ? Have you been studying the real names of the chords ?
+6 | Joey | surprise | What ? ! I did not touch a guitar !
+7 | Phoebe | anger | No , but you are questioning my method !
+8 | Joey | anger | No , I am not questioning it , I am saying it is stupid ! What ? !
+9 | Monica | neutral | Thank you .
+10 | Phoebe | anger | you know none of my other student thought I was stupid .
+11 | Joey | anger | Your other student , was you !
+12 | Phoebe | anger | Yeah , well , you know maybe you just need to try a little harder !
+13 | Joey | anger | Look , maybe I need to try a real teacher !
+14 | Joey | anger | Right here !
+15 | Joey | anger | Here !
+16 | Joey | anger | Andy Cooper , he teaches guitar and look ooh , there is a nice picture of him with a little kid and the kid got a guitar ! ! ! ! ! !
+17 | Phoebe | anger | Fine ! You go learn from your qualified instructor ! But do not come crying to me when everyone sick and tired of hearing you play Bad , Bad Leroy Brown ! !
+18 | Rachel | neutral | " Baddest man in the whole damn town . "
+19 | Phoebe | anger | Oh , fine ! Take his side !
+704 8
+(1,1),(2,1),(4,3),(5,5),(6,5),(6,6)
+1 | Monica | surprise | Oh , did you catch him ? !
+2 | Ross | surprise | Wh ... what did he say ? !
+3 | Phoebe | neutral | He said , " Nice to meet you Glenda . " Well , obviously I could not give him my real name ?
+4 | Rachel | surprise | Why ? ! Why not ? !
+5 | Phoebe | anger | Come on , you saw the way he ran out of here !
+6 | Phoebe | surprise | What do you think ? He is gonna stick around and talk to the daughter he abandoned !
+7 | Joey | neutral | What did you say to him ?
+8 | Phoebe | neutral | Well , I said , I told him you know , that I was the executor person of Francis will and that I needed to talk to him so I am gonna meet him at the coffee house later .
+728 12
+(2,1),(3,3),(6,5),(6,6),(8,8),(9,8),(9,9),(10,9),(10,10),(11,10)
+1 | The Hot Girl | neutral | I know . You are the guy who would not chip in for the handyman .
+2 | Ross | sadness | Nevermind !
+3 | The Hot Girl | sadness | No , I ... I actually thought it was unfair the way everyone reacted . I mean you had just moved in .
+4 | The Hot Girl | neutral | Jen .
+5 | Ross | neutral | Jen , I know this may sound a little ... But uh , would you maybe wanna grab a cup of coffee sometime , or
+6 | Jen | joy | Sure ! That would be nice .
+7 | Ross | neutral | Umm ?
+8 | Jen | joy | Oh ! My number is on there . Give me a call .
+9 | Ross | joy | I will give you a call .
+10 | Jen | joy | I will see you later .
+11 | Ross | joy | Okay !
+12 | Jen | neutral | I forgot my paper .
+739 13
+(4,4),(5,5),(6,6),(8,7),(9,7),(9,8),(11,11),(12,11),(13,11),(13,13)
+1 | Phoebe | neutral | I guess so .
+2 | Rachel | neutral | Here you go . Thank you !
+3 | Phoebe | neutral | Wait , Rach ! Where is the other one ?
+4 | Rachel | surprise | Oh what , you ... you want both of them ?
+5 | Phoebe | anger | Rachel Karen Green , where is the other earring ? !
+6 | Rachel | fear | Okay , okay , okay , look , just do not freak out , but I kinda lost it .
+7 | Rachel | neutral | I know it is in the apartment , but I definitely lost it .
+8 | Phoebe | anger | Well , what am I going to tell Monica ? She wants to wear them tonight !
+9 | Rachel | anger | Tell her to wear her own earrings .
+10 | Phoebe | neutral | These are her earrings .
+11 | Rachel | fear | Nooo ! Nooooo ! You lent me Monica earrings ? ! I am not allowed to borrow her stuff !
+12 | Phoebe | surprise | Why not ?
+13 | Rachel | anger | Because I lose her stuff !
+742 3
+(3,3)
+1 | Gary | neutral | Okay , you guys free tonight ?
+2 | Ross | joy | Yeah ! !
+3 | Chandler | fear | Tonight ? You ... you did not say it was going to be at nighttime .
+743 10
+(3,2),(3,3),(4,3),(5,4),(5,5),(6,4),(6,6),(7,6),(8,7),(10,10)
+1 | Ross | neutral | So where are we going next ?
+2 | Gary | neutral | This witness will not return my calls so we are gonna see if we can surprise him coming home .
+3 | Chandler | fear | Sur ... surprise him ? We are not , we are not gonna make anybody mad are we ?
+4 | Joey | joy | Come on man ! Listen so uh , are you gonna squeeze the perps shoes a little bit before he lawyers up ?
+5 | Gary | disgust | It is a witness not a perp . And no one talks like that !
+6 | Ross | disgust | Yeah , no one talks like that !
+7 | Joey | anger | Oh what ? Like your Mr . Cop !
+8 | Ross | anger | Hey , I am more cop than you two !
+9 | Chandler | neutral | How do you figure that ?
+10 | Ross | joy | Hello ! I am in the front seat , okay ? I am Gary partner !
+746 5
+
+1 | Chandler | neutral | Yes , if the foxhole was lined with sandwiches .
+2 | Joey | neutral | Yeah , hero sandwiches .
+3 | Phoebe | neutral | Well you all know that I am a pacifist so I am not interested in war in any way .
+4 | Phoebe | neutral | When the revolution comes , I will have to destroy you all .
+5 | Phoebe | neutral | Not you Joey .
+792 14
+(1,1),(7,5),(7,6),(9,9),(10,9),(10,10),(11,9),(11,10),(11,11),(12,9),(12,10),(12,11),(12,12),(13,9),(13,10),(13,11),(13,13),(14,13)
+1 | Monica | sadness | Rachel , it is going to happen . Chandler is gonna move in here .
+2 | Rachel | neutral | But I
+3 | Monica | neutral | No ... no , wait !
+4 | Monica | neutral | Just let me finish , okay ?
+5 | Monica | neutral | This is not something that we just , we just impulsively decided in ... in Vegas , this is something we both really want .
+6 | Monica | neutral | And it is going to happen .
+7 | Rachel | surprise | It is ? Really ?
+8 | Monica | neutral | Yeah , sweetie .
+9 | Rachel | sadness | I mean we are not , we are not gonna live together anymore ?
+10 | Monica | sadness | No .
+11 | Rachel | sadness | What ? Oh my God ! I am gonna miss you so much !
+12 | Monica | sadness | I am gonna miss you !
+13 | Rachel | sadness | I mean it is the end of an era !
+14 | Monica | joy | I know !
+794 8
+(2,2),(4,4)
+1 | Joey | neutral | Hey , what up ?
+2 | Chandler | sadness | Nothing , Monica and I had a stupid fight .
+3 | Joey | neutral | But you are still moving in together , right ? Because my ad came out today .
+4 | Chandler | joy | " Wanted . Female roommate , non ... smoker , non ... ugly . " Nice !
+5 | Joey | neutral | Yeah ?
+6 | Joey | neutral | I just figured you know , after living with you it would be an interesting change of pace to have a female roommate , you know ?
+7 | Joey | neutral | Someone I can learn from , someone ... someone who different than me .
+8 | Joey | neutral | And what more different than me . A guy who not 19 than say a girl who is 19 ?
+804 6
+(2,2),(4,3)
+1 | Joey | neutral | Hey Estelle , listen
+2 | Estelle | surprise | Well ! Well ! Well ! Joey Tribbiani ! So you came back huh ? They
+3 | Joey | surprise | What are you talkin about ? I never left you ! You have always been my agent !
+4 | Estelle | surprise | Really ? !
+5 | Joey | neutral | Yeah !
+6 | Estelle | neutral | Oh well , no harm , no foul .
+820 5
+(1,1),(2,1),(2,2),(3,3),(4,3),(4,4),(5,5)
+1 | Joey | surprise | Why is not that valet back with my Porsche ?
+2 | Passerby | disgust | Maybe because you have got the keys ?
+3 | Rachel | anger | This is totally your fault !
+4 | Ross | anger | My fault ? ! You threatened the judge !
+5 | Rachel | anger | Well , you ripped the paper out of the court reporter machine ! !
+831 2
+
+1 | Monica | neutral | Hey . Call me when you get there . Okay ?
+2 | Rachel | neutral | Okay .
+841 5
+(1,1),(2,2),(5,5)
+1 | Rachel | surprise | You guys ! It was bananas , cream , and beef ! I ... I just cannot believe that you ate that so that I would not feel bad !
+2 | Monica | joy | Well actually , I ... I did not eat mine . It is still in the bathroom .
+3 | Joey | neutral | No it is not , I ate that .
+4 | Mrs. Geller | neutral | Well we left ours in Monica bedroom .
+5 | Joey | joy | Nope , got it and I got yours too .
+848 9
+(3,3),(9,8)
+1 | Joey | joy | Really ? In the moment , I really wanted to kiss you too . In the moment .
+2 | Janine | neutral | In the moment , yeah .
+3 | Joey | joy | But only in the moment . So do you wanna kiss again ?
+4 | Janine | neutral | Sure , New Year Eve is only two weeks away . Can you wait ?
+5 | Joey | neutral | No .
+6 | Janine | neutral | Me neither .
+7 | Joey | neutral | 3 , 2 ,
+8 | Janine | neutral | Joey , you do not have to count down every time we kiss .
+9 | Joey | joy | Uh , yeah , okay . Except I sorta felt like I needed a couple of seconds to get ready .
+850 10
+(6,6),(7,7),(9,9),(10,9),(10,10)
+1 | Phoebe | neutral | Ohh , okay , they gave you the old time pricing .
+2 | Rachel | neutral | Yeah .
+3 | Phoebe | neutral | Well , what period is it from ?
+4 | Rachel | neutral | Uh , it is from yore . Like the days of yore . you know ?
+5 | Phoebe | neutral | Yes , yes I do .
+6 | Phoebe | joy | God , oh it is just perfect !
+7 | Phoebe | joy | I bet it has a great story behind it too .
+8 | Phoebe | neutral | Did they tell you anything ?
+9 | Rachel | joy | Yes ! That I know , this is from White Plains .
+10 | Phoebe | joy | White Plains . Oh , it sounds like such a magical place .
+852 12
+(1,1),(2,2),(3,3),(4,4),(5,5),(6,5),(7,6),(8,8),(9,9),(10,9),(10,10),(11,11),(12,4),(12,12)
+1 | All | surprise | Aww !
+2 | Ross | disgust | Hey Pheebs , could you please not put your feet up on my new ... ... old sheet ?
+3 | Phoebe | surprise | Oh sure ! Noo !
+4 | Rachel | surprise | Ohh ! !
+5 | Ross | surprise | My apothecary table ! ! !
+6 | Phoebe | surprise | What ? !
+7 | Rachel | fear | Noooooo ! !
+8 | Phoebe | surprise | Ross , where did you get this ? !
+9 | Rachel | anger | Oh my God , Phoebe , Pottery Barn has ripped off the design of our antique !
+10 | Phoebe | surprise | Wow ! Oh my God , well if they have ripped off our table ours must be much more than one and fifty dollars !
+11 | Phoebe | anger | Well this does not even smell like opium .
+12 | Ross | anger | Of course not , it smells like wine , which you spilled ! And thanks for wrecking my sheet by the way .
+882 6
+(2,2),(3,2),(3,3),(5,5),(6,5)
+1 | Ross | neutral | So honey this uh , this threesome thing umm , I mean how ... how are you gonna start to find
+2 | Carol | joy | Ooh , actually I have been making a list of all the women I know who might be into doing this !
+3 | Ross | surprise | Oh . Wow ! Huh . Boy ! Well , someone been doing their homework .
+4 | Carol | neutral | Yeah . Ooh , and I know Gail Rosten is in there twice , but she is so ...
+5 | Ross | joy | Oh , I know . you know , just ... just talking about it is getting me kinda
+6 | Carol | joy | Oh , me too .
+892 7
+(2,2),(4,3),(5,5),(7,6),(7,7)
+1 | Joey | neutral | Oh , did I not mention ? Carl is a guy I hired to be my identical twin for a medical research project .
+2 | Chandler | joy | you know sometimes the good ideas are just right in front of you , are not they ?
+3 | Joey | neutral | Okay , I know it sounds crazy , but I think it might work . you know ? The only problem is , Carl acting is ...
+4 | Monica | surprise | The only problem ?
+5 | Joey | disgust | Yeah , he is the reason I did not get that big Minute Maid commercial a couple of years ago remember ?
+6 | Carl | neutral | Hey , uh can I get a little piece of that cake ?
+7 | Joey | anger | Pizza ! ! We like Pizza ! ! Get out ! ! !
+895 7
+(1,1),(2,2),(3,3),(4,4),(6,6),(7,7)
+1 | Chandler | surprise | Oh my good God .
+2 | Monica | joy | Hey ! Continuing the countdown of your favorite meals . Tonight , No . 3 , macaroni and cheese with cut up hot dogs .
+3 | Chandler | joy | Look , you have done enough ! Okay ? You have to stop this now .
+4 | Monica | joy | I will ! But not tonight . For dinner music , I thought we could listen to that tape you made me .
+5 | Chandler | neutral | Oh , the mixed tape .
+6 | Monica | joy | " The Way You Look Tonight " is on here . Dance with me .
+7 | Monica | joy | You are just the sweetest .
+900 6
+(6,5),(6,6)
+1 | Joey | neutral | Hey Chandler ! you know that girl you went to college with who ... who became a movie director ?
+2 | Chandler | neutral | Oh yeah , Dana Keystone . She was in my Movement class .
+3 | Phoebe | neutral | What a Movement class ?
+4 | Monica | neutral | It is Chandler way of pretending he did not take mime .
+5 | Joey | neutral | Oh well listen , anyway , she is directing the new Al Pacino movie . You gotta get me an audition !
+6 | Chandler | sadness | Oh , I do not know man . I have not talked to her in like ten years .
+914 11
+(1,1),(2,1),(2,2),(4,3),(4,4),(5,3),(5,4),(10,9),(10,10)
+1 | Rachel | joy | Hey !
+2 | All | joy | Hi ! Hey !
+3 | Rachel | neutral | Do you guys know any cute guys ?
+4 | Chandler | joy | Well , of course I do ! My good friend Joey over here .
+5 | Joey | joy | Oh , I am sorry . Thank you Chandler .
+6 | Rachel | neutral | Anyway , there is this big charity ball this weekend and Ralph Lauren bought a table , so I kinda have to go
+7 | Monica | neutral | What the charity ?
+8 | Rachel | neutral | I do not know , something either trees or disease ... Ralph mumbles a lot .
+9 | Monica | neutral | Does Ralph mumble when you are not paying attention ?
+10 | Rachel | surprise | Yeah ! It is weird . But the thing is need to find a date .
+11 | Phoebe | neutral | Well , what kind of guy are you looking for ?
+915 3
+(1,1),(3,3)
+1 | Elizabeth | joy | You wanted to see me Professor Geller ?
+2 | Ross | neutral | Yes . Yes ! Please , come in .
+3 | Ross | joy | Oo ... oo !
+918 18
+(1,1),(2,1),(3,1),(3,2),(3,3),(4,1),(4,3),(5,4),(6,8),(8,8),(9,8),(9,9),(10,10),(11,11),(14,13),(15,13),(16,13),(17,13),(18,13),(18,18)
+1 | Joey | fear | We have got 3 minutes till the reactor blows , we are never gonna make it !
+2 | Phoebe | fear | You have got to get out of here ! Save yourself !
+3 | Joey | fear | No ! I will not leave you !
+4 | Phoebe | anger | Do not worry about me , I am a robot ! I am just a machine ! !
+5 | Joey | anger | No you are not ! Not to me !
+6 | Phoebe | surprise | Oh my God .
+7 | Joey | neutral | What ?
+8 | Phoebe | joy | I am extremely talented !
+9 | Joey | joy | Yeah , you are great ! Okay , let take it from
+10 | Phoebe | joy | No , I mean I was really acting my ass off .
+11 | Joey | joy | Yeah , I thought I was pretty good too .
+12 | Phoebe | neutral | Oh yeah , you are solid . Yeah , you are just no me .
+13 | Joey | neutral | you know what ? I think that is enough for now . Yeah . I do not want to be over rehearsed .
+14 | Phoebe | anger | Fine !
+15 | Phoebe | anger | I will do it without you !
+16 | Phoebe | anger | I do not need you or anybody else !
+17 | Phoebe | anger | I am gonna make it on my own !
+18 | Phoebe | anger | You will see ! ! You will all see ! !
+919 5
+(3,3),(3,1),(4,3),(5,4),(5,5)
+1 | Joey | neutral | I do not know if I am good enough . |
+2 | Phoebe | neutral | I am .
+3 | Rachel | surprise | Joey , what are you talking about ? You are a terrific actor .
+4 | Joey | surprise | You really think so ?
+5 | Rachel | surprise | Ugh , how can you even ask that question ? !
+925 12
+(4,3),(6,6),(7,7),(8,6),(9,6),(10,9),(11,10)
+1 | Ross | neutral | Hey !
+2 | Ross | neutral | What are you guys doing later ?
+3 | Phoebe | neutral | Oh , Rachel and I have appointments to get our hair cut .
+4 | Rachel | surprise | We do ?
+5 | Phoebe | neutral | I want to see what he wants first .
+6 | Ross | sadness | I just found out that Elizabeth dad wants to meet me .
+7 | Chandler | surprise | Wait a minute , hold the phone ! You are not Elizabeth dad ? !
+8 | Ross | fear | Come on guys , I ... I really want this guy to like me .
+9 | Ross | sadness | It ... it would really help me out if you guys were here to make me look good .
+10 | All | surprise | Of course we will help ! Yeah ! We will be here !
+11 | Ross | joy | Thanks !
+12 | Monica | neutral | We know how tough those parent/teacher conferences can be .
+928 19
+(1,1),(2,1),(4,4),(6,5),(6,6),(7,5),(7,6),(9,5),(9,6),(14,14),(15,14),(19,17),(19,18),(19,19)
+1 | Joey | joy | Pretty great ! Except I did get a little attitude from the robot .
+2 | Chandler | anger | Damn those robots , they are supposed to be our faithful servants !
+3 | Joey | neutral | Anyway , it was not the robot , it was the guy who controls him .
+4 | Joey | anger | Yeah , he does not like me .
+5 | Joey | neutral | He had C . H . E . E . S . E .
+6 | Joey | anger | knock over the sandwich right when I was reaching for one !
+7 | Joey | surprise | Ohh !
+8 | Phoebe | neutral | Well , why do not you just get him fired ?
+9 | Joey | anger | I may have to , I hate to do it , but I am the star !
+10 | Joey | neutral | you know ?
+11 | Joey | neutral | There is a limit to how many sandwiches I can eat off the floor .
+12 | Joey | neutral | Excuse me .
+13 | Joey | neutral | Joey Tribbiani .
+14 | Estelle | joy | Joe ! I am glad I found you , I got an audition for you !
+15 | Joey | surprise | Wow !
+16 | Estelle | neutral | The thing is it is kinda on the Q . T .
+17 | Estelle | neutral | The actor who has the part does not know he might be fired .
+18 | Estelle | neutral | It is the lead in a series , Mac and C . H . E . E . S . E .
+19 | Joey | anger | I am the lead in Mac and C . H . E . E . S . E . ! !
+941 14
+(3,5),(5,5),(6,5),(7,5),(7,7),(8,5),(8,7),(8,8),(9,5),(9,7),(9,8),(9,9),(10,9),(11,12),(12,12),(13,11),(13,13),(14,12),(14,13)
+1 | Monica | neutral | Phoebe !
+2 | Phoebe | neutral | Yeah ?
+3 | Monica | fear | Have you seen Chandler ? !
+4 | Phoebe | neutral | No ! Why ?
+5 | Monica | fear | The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard !
+6 | Monica | fear | I know !
+7 | Monica | fear | How bad is this ?
+8 | Phoebe | fear | Well for the regular guy , it is bad , but Chandler , Oh dear God !
+9 | Monica | fear | I know ! I know ! And he totally freaked out and I can not find him anywhere !
+10 | Phoebe | surprise | What are you gonna do ?
+11 | Monica | anger | Well , I am never gonna listen to you again , that is for sure !
+12 | Monica | disgust | " you know , harm can it do if you go and put your name down ? "
+13 | Phoebe | anger | Rachel said that !
+14 | Monica | anger | Well Rachel not here !
+942 4
+(1,1),(2,1),(2,2)
+1 | Phoebe | surprise | Oh ! Here it is ! Ooh , Joey ! Why did you sign it , " Son of a bitch ? "
+2 | Joey | surprise | I did not do that ! Who would have done that ? !
+3 | The Dry Cleaner | anger | Son of a bitch !
+4 | Phoebe | neutral | Okay , maybe ask this guy .
+962 3
+(2,1),(2,2)
+1 | Waitress | neutral | Hey Monica , there is a customer who wants to complement the chef , should I let him in ?
+2 | Monica | joy | Sure , I love this part !
+3 | Waitress | neutral | Come on in .
+1001 19
+(3,2),(5,4),(5,5),(7,7),(8,4),(8,8),(10,8),(10,10),(12,4),(13,4),(18,18)
+1 | Whitney | neutral | Well , I went over to Kyle last night to pick up a few things and we got to reminiscing
+2 | Kyle | sadness | we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there . So
+3 | Ross | surprise | Oh just say it Kyle !
+4 | Kyle | neutral | We are gonna give it another try .
+5 | Phoebe | anger | What about her whining and her constant need for attention ? !
+6 | Whitney | neutral | I am gonna work on that .
+7 | Phoebe | disgust | Oh right , because you are so capable of change .
+8 | Ross | anger | you know , he hums when he pees !
+9 | Whitney | neutral | I do know .
+10 | Ross | disgust | It makes him miss the bowl , but whatever .
+11 | Whitney | sadness | We are so sorry .
+12 | Ross | anger | That is all right , we ... we do not need you . In fact , hey I am over it already .
+13 | Phoebe | anger | Yeah , and you know what ? I do not give a tiny rat ass .
+14 | Kyle | neutral | Yeah , we are gonna go .
+15 | Ross | sadness | I am sorry . Ugh , Pheebs , you were , you were right about her .
+16 | Phoebe | neutral | Oh . you know , he hums while he does other stuff to .
+17 | Ross | neutral | Yeah , we are better off without them .
+18 | Phoebe | anger | And you know , even if they break up again , you would better not let him in your sad men club !
+19 | Ross | neutral | Divorced men club .
+1022 15
+(1,1),(3,2),(10,9),(12,12),(13,13),(14,14)
+1 | Ross | surprise | Yes ? Yes ? ! How can I help you ?
+2 | Guy | neutral | Yeah , we were ... we were just looking around .
+3 | Ross | surprise | Oh ... oh , you are ... you are fellow scholars .
+4 | Ross | neutral | What exactly were you looking for , hmm ?
+5 | Ross | neutral | Perhaps , perhaps Dr . Chester Stock musings on the Smiledon Californicus ?
+6 | Guy | neutral | Uhh ... .
+7 | Ross | anger | Ah ... Ah ... Get out of here ! Uh , meeting someone ? Or ... or are you just here to brush up on Marion views on evolution ?
+8 | Woman | neutral | Uh , actually I find Marion views far too progressionist .
+9 | Ross | neutral | I find Marion views far too progressionist .
+10 | Woman | surprise | I am sorry , who are you ?
+11 | Ross | neutral | I am a professor here uh , Ross ... Geller .
+12 | Woman | surprise | Ross Geller , why do I know that name ? It is uh ... Wait ! Did you write this ?
+13 | Ross | surprise | Yes ! You are the person who checked out my book ? !
+14 | Woman | surprise | you know , you look nothing like I would have thought . You are ... you are so young .
+15 | Ross | neutral | Well I uh , I skipped forth grade .
+1027 20
+(1,1),(5,5),(12,12),(14,12),(15,12),(16,15),(17,15),(17,16),(17,17),(18,15),(18,18),(19,18),(20,20)
+1 | Rachel | joy | Oh , hi ! How are you doing ?
+2 | Tag | sadness | I am okay . I gotta go down to the police station and look at mug shots .
+3 | Tag | neutral | Thanks for having me over , you guys .
+4 | Ross | neutral | Tag ?
+5 | Ross | surprise | Y ... You are going ?
+6 | Ross | neutral | Uh we did not , uh we did not get the chance to talk .
+7 | Ross | neutral | Uh , so , where did you say you are from again ?
+8 | Tag | neutral | Colorado .
+9 | Ross | neutral | Ah , what good are you .
+10 | Rachel | neutral | Look , um , I think we should talk about what happened on the terrace .
+11 | Tag | neutral | Okay .
+12 | Rachel | sadness | Ah , I ... I never should have said what I said .
+13 | Rachel | neutral | It ... you know what ?
+14 | Rachel | sadness | It just does not matter how I feel .
+15 | Rachel | sadness | I mean we work together , so nothing could really ever happen between us , and what I would love is just to go to work on Monday , and ... and never talk about this again , okay ? Big day Monday lots to do . So , we are okay ?
+16 | Tag | sadness | Um , I am not .
+17 | Rachel | sadness | Oh , god , I knew it , that I freaked you out .
+18 | Tag | sadness | No , you did not . The only thing that freaked me out was you saying that nothing could ever happen between us .
+19 | Rachel | surprise | Really ?
+20 | Tag | sadness | Yeah , so , please do not fire me for doing this .
+1077 6
+(1,1),(3,3),(4,3),(5,3),(5,5)
+1 | Rachel | joy | I am so psyched I kept this chair for myself !
+2 | Joey | neutral | Yeah , me too .
+3 | Rachel | surprise | Yeah ? Wow ! you know , that this thing has speakers in the headrest !
+4 | Joey | surprise | No . Really ?
+5 | Rachel | joy | Yeah ! You can hook it up to your TV and you get radio !
+6 | Joey | neutral | My chair heals itself .
+1115 15
+(2,1),(2,2),(7,7),(8,7),(15,14),(15,15)
+1 | Monica | neutral | Hey ! What did you decide to do about the movie ?
+2 | Joey | sadness | I do not know !
+3 | Joey | neutral | It is not like it is porn !
+4 | Joey | neutral | This is a serious , legitimate movie .
+5 | Joey | neutral | And the nudity is really important to the story .
+6 | Monica | neutral | That is what you say about porn .
+7 | Joey | sadness | You are right . Maybe I should not even go on the call back .
+8 | Monica | surprise | No ! No you should ! A lot of major actors do nude scenes ! I mean , the chance to star in a movie ? Come on !
+9 | Joey | neutral | Well that is true .
+10 | Joey | neutral | And I am only naked in one scene .
+11 | Joey | neutral | Plus it sounds really great .
+12 | Joey | neutral | My character catholic and he falls in love with this Jewish girl .
+13 | Joey | neutral | Who run away together and they get caught in this big rainstorm .
+14 | Joey | neutral | So we go into this barn and undress each other and hold each other .
+15 | Joey | joy | It is really sweet and ... and tender .
+1137 9
+(1,1),(2,2),(3,3),(4,3),(4,4),(5,5),(6,6),(8,6)
+1 | Rachel | joy | God . I forgot how much I love driving . I have got to get my license renewed .
+2 | Ross | anger | You do not have a valid driver’s license ... Okay that is it ! Pull over right now !
+3 | Rachel | joy | Oh Ross you are so tense ! You just gotta relax , okay ? Just need to relax all right ? Just need to relax
+4 | Ross | anger | What ... what are you doing ? ! Are you ... Okay that is not funny ! Just stop horsing around !
+5 | Rachel | joy | I am not horsing around , okay ? I am Porsching around .
+6 | Rachel | fear | Uh ... oh .
+7 | Ross | neutral | Okay , stay calm . Nothing is going to happen to you , you are not in that much trouble .
+8 | Rachel | fear | Really ? You think so ?
+9 | Ross | anger | I was talking to myself ! You are going down !
+1145 10
+(1,1),(4,1),(4,4),(5,4),(5,5),(6,1),(6,4)
+1 | Phoebe | surprise | Oh my God ! Chandler just left though !
+2 | Rachel | neutral | Yeah but , maybe it is not what we think . Maybe it is tell Monica I am sorry I ... drank the last of the milk .
+3 | Phoebe | neutral | Or maybe he ... he was writing to tell her that ... that he is changed his name , you know ? Tell Monica I am sorry .
+4 | Ross | anger | I think it means he freaked out and left !
+5 | Phoebe | anger | Do not be so negative ! Good God ! Is not it possible that Sorry is sitting in there right now ? !
+6 | Rachel | fear | Okay . Phoebe , I ... I think Ross is right . What are we gonna do ?
+7 | Ross | neutral | Look ... Okay , I am just gonna ... I am gonna have to go find him and bring him back !
+8 | Ross | neutral | Okay ?
+9 | Ross | neutral | You ... you make sure Monica does not find out , okay ?
+10 | Ross | fear | I will , I will find him .
+1152 5
+(4,4),(5,4),(5,5)
+1 | Ross | neutral | Uh Phoebe , can I see you for a second ?
+2 | Phoebe | neutral | Yeah !
+3 | Phoebe | neutral | What going on ?
+4 | Ross | sadness | Chandler gone again !
+5 | Phoebe | surprise | Oh my God ! Why would you play hide and seek with someone you know is a flight risk ? !
+1154 10
+(3,2),(4,2),(6,5),(7,5),(9,8),(10,9),(10,10)
+1 | Monica | surprise | Yeah !
+2 | Phoebe | neutral | I can not say .
+3 | Monica | surprise | Why ? !
+4 | Chandler | surprise | Why not ?
+5 | Phoebe | neutral | I can not say because he is famous .
+6 | Rachel | surprise | Oh my God , who is it ? !
+7 | Monica | anger | Phoebe , come on , you have to tell us .
+8 | Phoebe | neutral | Okay , okay . It is James Brolin . James Brolin is the father of my baby .
+9 | Chandler | surprise | As in Barbara Streisand husband James Brolin ?
+10 | Phoebe | surprise | What ? ! Well he never said that to me !
+1166 10
+(1,1),(2,2),(5,6),(6,6),(8,8),(9,8),(9,9),(10,8),(10,9),(10,10)
+1 | Phoebe | joy | Oh , it is so romantic to send people off on their honeymoon .
+2 | Joey | joy | you know , Monica and Chandler are married . Ross and Rachel are having a baby . Maybe you and I should do something .
+3 | Phoebe | neutral | All in good time my love .
+4 | Phoebe | neutral | All in good time .
+5 | Phoebe | surprise | Oh shoot !
+6 | Phoebe | sadness | I left my guitar in their apartment .
+7 | Phoebe | neutral | Well you can let me in later .
+8 | Joey | sadness | I do not have a key , they took mine to give to you .
+9 | Phoebe | surprise | What ? ! They took mine to give to you !
+10 | Joey | surprise | Why would they take away our keys ?
+1169 20
+(1,1),(5,4),(9,8),(10,10),(11,10)
+1 | Rachel | joy | Hi !
+2 | Ross | neutral | Hi .
+3 | Rachel | neutral | Hi . Umm , I think there is something that we really need to talk about .
+4 | Ross | neutral | I think we do . Why do not we go inside ? Look uh , I know why you are here .
+5 | Rachel | surprise | You do ?
+6 | Ross | neutral | Yeah , and to save you from any embarrassment umm , I think maybe I should talk first .
+7 | Rachel | neutral | Okay .
+8 | Ross | neutral | Okay . Uh , Ross and Rachel . Rachel and Ross . That is been one heck of a see ... saw , has not it ?
+9 | Rachel | surprise | What ?
+10 | Ross | sadness | I mean look , that ... that one night we had was fun and ... and certainly passionate , but do not you think it is better if we just stayed friends ?
+11 | Rachel | surprise | Seriously . What ? !
+12 | Ross | neutral | Okay .
+13 | Ross | neutral | Okay .
+14 | Ross | neutral | you know what ?
+15 | Ross | neutral | If you want to , we can do it one more time .
+16 | Ross | neutral | I mean I would ... I would be okay with that .
+17 | Ross | neutral | In fact , I have some time right now .
+18 | Rachel | neutral | Okay , you know what ? Can I , can I talk now ?
+19 | Ross | neutral | Oh sure .
+20 | Rachel | neutral | I am pregnant . Ross ? Ross ? Okay , whenever you are ready . And you are the father by the way , but you got ...
+1176 11
+(1,1),(3,2),(4,4),(5,4),(6,1),(6,6),(7,1),(7,6),(7,7),(8,7),(8,8),(9,7)
+1 | Monica | anger | I still do not get why Greg and Jenny would give us a fake number .
+2 | Joey | neutral | you know , if they knew what they were doing they probably did not give you real names either .
+3 | Monica | anger | Okay , maybe people give out fake numbers , but they do not give out fake names .
+4 | Joey | joy | Oh yeah ? Hi , Ken Adams , nice to meet you .
+5 | Phoebe | joy | Regina Philange .
+6 | Chandler | sadness | I still do not get it , we did not do anything wrong .
+7 | Monica | anger | I know ! Although , you did tell an awful lot of jokes .
+8 | Chandler | surprise | I thought you said those jokes were funny . Joke ! Joke ! Joke !
+9 | Monica | disgust | Joke . Joke . Blah ! Blah !
+10 | Chandler | neutral | Well maybe it was all of your questions .
+11 | Monica | neutral | What about my questions ?
+1177 17
+(2,2),(5,5),(6,6),(7,6),(8,6),(9,6),(10,6),(10,10),(12,12),(13,13),(14,12)
+1 | Rachel | neutral | Oh yeah , sure .
+2 | Rachel | joy | Okay , in about ten seconds you are gonna see him kiss me .
+3 | Ross | neutral | And in about five seconds you are gonna see why .
+4 | Rachel | neutral | Ross did I ever tell you about the time that I went backpacking through Western Europe ?
+5 | Rachel | joy | Okay , get ready to see some beggin !
+6 | Phoebe | surprise | Oh , you came on to Ross !
+7 | Rachel | surprise | What ? !
+8 | Ross | joy | Now I am so happy .
+9 | Rachel | surprise | What are you talking about ? !
+10 | Monica | joy | You used the Europe story !
+11 | Chandler | anger | That is the magic story you use when you wanna have sex !
+12 | Rachel | anger | How do you know about that story ? !
+13 | Joey | anger | How do you know about that story ? !
+14 | Rachel | anger | I heard it from my friend Irene who heard it from some guy !
+15 | Joey | neutral | Some guy ! !
+16 | Rachel | neutral | No . No , she told me his name was Ken Adams .
+17 | Joey | surprise | Ken Adams ! !
+1179 12
+(3,3),(4,3),(5,3),(5,4),(6,6)
+1 | Monica | neutral | Hello Greg ?
+2 | Monica | neutral | Hi , this is Monica from the plane ?
+3 | Monica | joy | Listen , the number that you gave me 853 ... 5 ... That is their old number !
+4 | Monica | joy | Jenny been giving it out since they moved !
+5 | Chandler | joy | Jenny ! That is so Jenny !
+6 | Monica | joy | Hey listen umm , how would you like to get together ?
+7 | Monica | neutral | Say next Saturday ?
+8 | Monica | neutral | Okay , how about Sunday ?
+9 | Monica | neutral | Okay umm , the week after that ?
+10 | Monica | neutral | The week after that ?
+11 | Monica | anger | you know what Greg ?
+12 | Monica | anger | We are good , interesting , funny people with good questions .
+1182 11
+(3,2),(5,2),(5,4),(6,5),(7,7),(9,9),(10,9),(10,10),(11,10)
+1 | Rachel | surprise | I thought I was a complete idiot .
+2 | Joey | neutral | Hey , I am with you . He even asked me if I thought you would go out with him .
+3 | Rachel | surprise | Oh ! Oh , I think I am gonna throw up a little bit . What did you say ?
+4 | Joey | neutral | I said no .
+5 | Rachel | surprise | What ? !
+6 | Joey | surprise | What ? I ... I just figured since you are pregnant you are not gonna be seeing people .
+7 | Rachel | anger | Okay Joey , first of all Kash Ford is not people . Second of all , what did he say when you told him I was pregnant ?
+8 | Joey | neutral | I did not tell him . I did not know if you were telling people . This is back when I thought Kash was still people .
+9 | Rachel | fear | Good ... good , do not tell him . Do not tell him . Just have him call me okay ?
+10 | Joey | sadness | Rach look , I really do not think that is such a great
+11 | Rachel | anger | Okay , you go do it ! I will come back to that set ! I will meet more actors ! I will meet em all !
+1186 9
+(6,6),(7,6),(8,6)
+1 | Bob | neutral | Hey Toby !
+2 | Chandler | neutral | Hey Bobby .
+3 | Bob | neutral | It is Bob actually . Hey , you work up here , can you tell me where this Chandler
+4 | Chandler | neutral | Uhh yeah . Yeah , it is right , right down there . Right there , yeah . Can I ask you why ?
+5 | Bob | anger | I want to talk to that bastard , see what his problem is .
+6 | Chandler | sadness | Okay Bob listen uhh , I am the reason you did not get the job up here .
+7 | Bob | sadness | Toby do not .
+8 | Chandler | sadness | Bob !
+9 | Bob | anger | Toby ! I am not gonna let you cover for him . Anything you say right now will just get me more upset with Chandler !
+1200 10
+(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(5,5),(7,7),(8,7),(9,9),(10,9)
+1 | Rachel | joy | Thank you . Oh Joey and look at this crib ! It is so cute !
+2 | Joey | joy | I know ! I found it on the street .
+3 | Rachel | surprise | Are you serious ... Really ? ! It is in such good condition .
+4 | Joey | joy | Yeah .
+5 | Rachel | surprise | Wow ! Whoa ... whoa what under the covers ?
+6 | Joey | neutral | I do not know .
+7 | Rachel | fear | It is moving .
+8 | Joey | fear | Ew .
+9 | Rachel | fear | It is still ... ... It is got a tail ! Get it out of here ! Get it out of here ! !
+10 | Joey | fear | Ooh ! Ah ! Okay !
+1240 6
+(1,1),(3,3),(4,4)
+1 | Phoebe | surprise | I can not believe this ! How long as this been going on ?
+2 | Monica | neutral | Well umm , Alexandra has been
+3 | Phoebe | surprise | Oh , it has a name ?
+4 | Monica | sadness | Phoebe , do not get upset !
+5 | Phoebe | anger | Okay ... Oop ! Too late ! I am leaving ! Come on Chandler let go !
+6 | Chandler | neutral | Well , Phoebe I thought I would ... ... Yeah , what the hell .
+1260 21
+(2,2),(3,2),(3,3),(4,4),(5,4),(5,5),(9,9),(10,9),(11,11),(12,11),(12,12),(13,13)
+1 | Ross | neutral | and then , we could have gone from the ceremony to the reception with you in the sidecar !
+2 | Rachel | sadness | Ross , it just would not have been feasible .
+3 | Ross | anger | But having a dove place the ring on your finger would have been no problem ?
+4 | Rachel | joy | It was really fun being married to you tonight .
+5 | Ross | joy | Yeah ! And ! And , it was the easiest 400 bucks I have ever made .
+6 | Rachel | neutral | Okay Ross , can I uh , can I ask you something ?
+7 | Ross | neutral | Yeah .
+8 | Rachel | neutral | That proposal , at the planetarium
+9 | Ross | sadness | I know , I know it was stupid .
+10 | Rachel | surprise | Are you kidding ? !
+11 | Rachel | joy | With the , with the lilies , and ... and the song , and the stars !
+12 | Rachel | joy | It was ... really wonderful !
+13 | Rachel | surprise | Did you just make that up ?
+14 | Ross | neutral | No , actually I thought about it when , when we were going out .
+15 | Ross | neutral | It is how I imagined I uh , I would ask you to marry me .
+16 | Rachel | neutral | Well , that would have been very hard to say no too .
+17 | Ross | neutral | It is a good thing I did not do it , because it sounds like it would have been a very expensive wedding . Okay , good night
+18 | Rachel | neutral | Goodnight
+19 | Ross | neutral | Even if the sidecar had a windscreen so your hair would not get messed up ?
+20 | Rachel | anger | I will think about it .
+21 | Ross | neutral | That is all I am askin
+1271 11
+(1,1),(2,2),(3,2),(3,3),(4,4),(5,4),(6,4),(6,6),(7,4),(8,8),(9,8),(9,9),(10,10),(11,10),(11,11)
+1 | Ross | surprise | Wow ! It looks like we got a lot of good stuff .
+2 | Rachel | joy | Oh we did , but my mom got us the greatest gift of all .
+3 | Ross | surprise | A Play ... Dough Barber Shop ?
+4 | Rachel | joy | No . She is going to live with us for eight weeks .
+5 | Ross | surprise | Uh , what ?
+6 | Rachel | joy | Yes ! She is gonna help us take care of the baby ! Woo ... hoo .
+7 | Ross | sadness | What ... You are not serious .
+8 | Ross | disgust | I mean she is a very nice woman , but there is no way we can take eight weeks of her .
+9 | Ross | disgust | She will drive us totally crazy .
+10 | Mrs. Green | joy | Hi Ross !
+11 | Ross | joy | Hi roomie !
+1281 14
+
+1 | Dr. Long | neutral | We will do a quick check .
+2 | Rachel | neutral | Okay .
+3 | Dr. Long | neutral | So , eight days late huh ?
+4 | Rachel | neutral | Yeah .
+5 | Dr. Long | neutral | You must be a little uncomfortable .
+6 | Rachel | neutral | Eh , just a tad .
+7 | Dr. Long | neutral | You are about 80 percent effaced , so you are on your way .
+8 | Dr. Long | neutral | It still could last a little while longer .
+9 | Dr. Long | neutral | If you are anxious there are a few ways to help things along .
+10 | Ross | anger | Do them ! !
+11 | Dr. Long | neutral | Actually , they are things you can do . Just some home remedies , but in my experience I have found that some of them are quite effective .
+12 | Rachel | neutral | Well , we are ready to try anything .
+13 | Dr. Long | neutral | Okay , there is an herbal tea you can drink .
+14 | Rachel | neutral | Okay .
+1292 8
+(1,1),(2,2),(3,3),(4,3),(8,7),(8,8)
+1 | Monica | anger | Oh good God ! If you want a baby so bad just go steal it !
+2 | Monica | surprise | What is going on with you ? Since when are you so crazy about babies ?
+3 | Chandler | joy | I am not crazy about babies . I am crazy about us .
+4 | Monica | surprise | What ?
+5 | Chandler | neutral | Look , we have always talked about having babies someday .
+6 | Chandler | neutral | I am not saying it has to be right now , but I am starting to think that we can handle it .
+7 | Chandler | neutral | We are good .
+8 | Chandler | joy | We are really good .
+1301 3
+(2,2),(3,2)
+1 | Chandler | neutral | Should we tell Rachel there is an empty private room right next door to hers ?
+2 | Monica | joy | We could , or we can have sex in it .
+3 | Chandler | joy | Well let me think about that , while I remove my pants !
+1304 4
+(1,1),(3,1),(3,3),(4,3)
+1 | Cliff | sadness | No , I am sorry . It is just my foot itches like crazy .
+2 | Phoebe | neutral | Oh , I will get it .
+3 | Cliff | surprise | Wow ! I usually get to know a girl a little better before I let her spoon me .
+4 | Phoebe | joy | Relax , it is not like we are forking .
+1307 5
+(4,4),(5,4),(5,5)
+1 | Monica | neutral | It is clearly an Emma .
+2 | Rachel | sadness | Oh honey , but you love that name .
+3 | Monica | neutral | Yeah , but I love you more .
+4 | Monica | sadness | Besides you know , nothing goes with Bing .
+5 | Monica | sadness | So I am screwed .
+1310 20
+(1,1),(2,2),(4,3),(4,4),(5,5),(9,9),(14,14),(15,14),(16,15),(16,16),(17,18)
+1 | Phoebe | surprise | Oh !
+2 | Ross | joy | Look at Emma !
+3 | Phoebe | neutral | I just can not decide who she looks more alike , you or Rachel ?
+4 | Ross | surprise | Oh what are you kidding ? She is gorgeous , it is all Rachel .
+5 | Phoebe | surprise | I am sorry , for the last time , why are not you two together again ?
+6 | Phoebe | neutral | No , I know .
+7 | Phoebe | neutral | I know , because you are not in that place .
+8 | Phoebe | neutral | Which would be fine , except you totally are .
+9 | Ross | sadness | It is ... it is complicated okay ?
+10 | Phoebe | neutral | Yeah that is true . Yeah , you love her . You always have . You have a child together . There is no right answer .
+11 | Ross | neutral | Look , we have been together .
+12 | Ross | neutral | Okay ?
+13 | Ross | neutral | And then apart , and then together , and then apart , and now we have a baby .
+14 | Ross | sadness | It is just if ... if we got together again and it did not work out ... I could never do that to Emma .
+15 | Ross | sadness | I mean she ... she thinking everything ... Oh that is ... now me .
+16 | Ross | surprise | What do they put something in the water in this place ?
+17 | Ross | sadness | Since Rachel and I we are doing really , we are doing really well right now .
+18 | Phoebe | neutral | I know . I know . I know . I know , and if you try to make it more you might wreck it .
+19 | Ross | neutral | Yeah , exactly .
+20 | Phoebe | neutral | Right . Or you might get everything you have wanted since you were fifteen .
+1323 2
+(1,1)
+1 | Chandler | sadness | What is wrong with Emma ?
+2 | Monica | anger | Oh she misunderstood , she thought she was moving to Tulsa .
+1335 13
+(1,1),(2,2),(3,1),(6,1),(6,6),(7,6),(8,6),(10,6),(10,10),(11,6),(11,10),(11,11),(12,12),(13,12),(13,13)
+1 | Kori | sadness | I can not believe that Ross is gone . It is just so sad .
+2 | Chandler | surprise | I did not know Ross and you were so close .
+3 | Kori | sadness | We were not but we had one class together . He was such a great guy and he talked so passionately about science . I always remembered him .
+4 | Chandler | neutral | I am sure that would mean a lot to him .
+5 | Chandler | neutral | And if heaven has a door , I am sure he is pressing his ear up against it and listening intently .
+6 | Kori | sadness | I thought so many times about calling him and asking him out . I guess I really missed my chance .
+7 | Ross | joy | But you did not !
+8 | Ross | joy | I am still alive ! !
+9 | Ross | neutral | Kori , I know this is a big surprise for you .
+10 | Ross | joy | It is a long story but the things you just said really made my day !
+11 | Ross | joy | I mean , the fact that you are here means more to me than if this room were filled with people !
+12 | Kori | anger | You sick freak , who does that ? I can not believe I had a crush on you !
+13 | Ross | joy | Did you hear that ? Kori Weston had a crush on me ! !
+1345 5
+
+1 | Ross | neutral | Oh ... ok , fine .
+2 | Ross | neutral | But ... ehm ...
+3 | Ross | neutral | I just have one question for you , ehm ...
+4 | Ross | neutral | When we exit should we walk , or run , or prance , or stroll ...
+5 | Charlie | joy | Stop it , stop it ! He talks slow but he might pee fast ! Ok , let go ! !
+1349 11
+(2,1),(5,5),(8,7),(11,11)
+1 | Monica | joy | Hey honey ! I missed you today !
+2 | Chandler | surprise | Oh , yeah ?
+3 | Monica | neutral | Yeah . What Do you wanna do tonight ?
+4 | Chandler | neutral | Oh , well ... Maybe we could ...
+5 | Monica | joy | Ok , trying to turn me on by making a mess ?
+6 | Monica | joy | Know your audience !
+7 | Monica | neutral | Besides , tomorrow we are doing those fertility tests and until then you need to keep your tadpoles in the tank .
+8 | Chandler | sadness | We really need to take those tests ?
+9 | Monica | neutral | Honey , we have been trying to have a baby for over a year .
+10 | Monica | neutral | I think it is a good idea to find out if everything ok . Just a few routine tests .
+11 | Chandler | sadness | But I do not wanna do it in a cup !
