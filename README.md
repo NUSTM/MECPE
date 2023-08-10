@@ -4,6 +4,8 @@ This repository contains the dataset and code for our TAFFC 2022 paper:
 
 F. Wang, Z. Ding, R. Xia, Z. Li and J. Yu, "[Multimodal Emotion-Cause Pair Extraction in Conversations](https://ieeexplore.ieee.org/document/9969873)," in IEEE Transactions on Affective Computing, doi: 10.1109/TAFFC.2022.3226559.
 
+🔥 We have organized a SemEval task based on our ECF dataset, and will release the source data of the three modalities. Welcome to participate in the competition. Visit [SemEval-2024 Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/).
+
 ## Dependencies
 
 - Python 3 (tested on python 3.6.13)
