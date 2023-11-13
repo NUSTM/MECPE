@@ -16,7 +16,7 @@ FLAGS = tf.app.flags.FLAGS
 ## embedding parameters ##
 tf.app.flags.DEFINE_string('w2v_file', './data/ECF_glove_300.txt', 'embedding file')
 tf.app.flags.DEFINE_string('path', './data/', 'path for dataset')
-tf.app.flags.DEFINE_string('video_emb_file', './data/video_embedding_3dcnn_4096.npy', 'ndarray (13620, 4096)')
+tf.app.flags.DEFINE_string('video_emb_file', './data/video_embedding_4096.npy', 'ndarray (13620, 4096)')
 tf.app.flags.DEFINE_string('audio_emb_file', './data/audio_embedding_6373.npy', 'ndarray (13620, 6373)')
 tf.app.flags.DEFINE_string('video_idx_file', './data/video_id_mapping.npy', 'mapping dict: {dia1utt1: 1, ...}')
 tf.app.flags.DEFINE_integer('embedding_dim', 300, 'dimension of word embedding')
