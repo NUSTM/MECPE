@@ -8,8 +8,8 @@ F. Wang, Z. Ding, R. Xia, Z. Li and J. Yu, "[Multimodal Emotion-Cause Pair Extra
 
 ## Dependencies
 
-- Python 3 (tested on python 3.6.13)
-- [Tensorflow](https://github.com/tensorflow/tensorflow) 1.15.5
+- Python 3.6.9 (test on cuda10.2 NVIDIA RTX TITAN)
+- [Tensorflow](https://github.com/tensorflow/tensorflow) 1.15.4
 - [BERT](https://github.com/google-research/bert) (The pretrained BERT model "[BERT-Base, Cased](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip)" is required.)
 
 ## Usage
