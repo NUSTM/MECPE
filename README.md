@@ -32,7 +32,7 @@ Step2:
 python -u step2.py  --use_x_a yes  --use_x_v yes   --scope  BiLSTM_A_V
 ```
 
-## <span id="CodaLab">CodaLab</span>
+## <span id="Citation">Citation</span>
 
 ```
 @ARTICLE{wang2023multimodal,
