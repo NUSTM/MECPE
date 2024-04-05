@@ -31,3 +31,30 @@ Step2:
 ```
 python -u step2.py  --use_x_a yes  --use_x_v yes   --scope  BiLSTM_A_V
 ```
+
+## Citation
+
+```
+@ARTICLE{wang2023multimodal,
+  author={Wang, Fanfan and Ding, Zixiang and Xia, Rui and Li, Zhaoyu and Yu, Jianfei},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={Multimodal Emotion-Cause Pair Extraction in Conversations}, 
+  year={2023},
+  volume={14},
+  number={3},
+  pages={1832-1844},
+  doi = {10.1109/TAFFC.2022.3226559}
+}
+
+@InProceedings{wang2024SemEval,
+  author={Wang, Fanfan  and  Ma, Heqing  and  Xia, Rui  and  Yu, Jianfei  and  Cambria, Erik},
+  title={SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations},
+  booktitle={Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
+  month={June},
+  year={2024},
+  address={Mexico City, Mexico},
+  publisher={Association for Computational Linguistics},
+  pages={2022--2033},
+  url = {https://aclanthology.org/2024.semeval2024-1.273}
+}
+```
