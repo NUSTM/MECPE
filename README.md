@@ -5,7 +5,7 @@ Please [**cite**](#Citation) our paper according to the official format.
 
 🌟 Our **task paper** for SemEval-2024 is available [here](https://aclanthology.org/2024.semeval2024-1.273).
 
-🌟 We have organized a SemEval task based on our ECF dataset and extended evaluation data. Welcome to participate in the competition. Visit [SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/). 
+🌟 We have organized a SemEval task based on our ECF dataset and extended it with additional evaluation data. Welcome to participate in our competition. Visit [SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/). 
 
 ## Dependencies
 
