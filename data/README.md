@@ -1,6 +1,10 @@
 ## ECF dataset 
 
+
+
 For our task MECPE, we accordingly construct a multimodal conversational emotion cause dataset named Emotion-Cause-in-Friends (ECF) from the _Friends_ sitcom. We choose [MELD](https://github.com/declare-lab/MELD) as the data source and further annotate the corresponding causes for the given emotion annotations.
+
+The complete dataset in JSON format is available on Hugging Face. [![Dataset](https://img.shields.io/badge/🤗-ECF-F0A336)](https://huggingface.co/datasets/NUSTM/ECF)
 
 ### Dataset Statistics
 
