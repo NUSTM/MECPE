@@ -1,6 +1,8 @@
 # Multimodal Emotion-Cause Pair Extraction in Conversations
 
-This repository contains the dataset and code for our IEEE TAC 2022 paper: [Multimodal Emotion-Cause Pair Extraction in Conversations](https://ieeexplore.ieee.org/document/9969873)
+[![Dataset](https://img.shields.io/badge/Dataset-🤗_Hugging_Face-F0A336)](https://huggingface.co/datasets/NUSTM/ECF) [![Journal](https://img.shields.io/badge/Paper-TAFFC-2E6396)](https://ieeexplore.ieee.org/document/9969873) [![Conference](https://img.shields.io/badge/Paper-arXiv:2110.08020-A42F22)](https://arxiv.org/abs/2110.08020) [![Website](https://img.shields.io/badge/Competition-SemEval_2024-488DF8)](https://nustm.github.io/SemEval-2024_ECAC/)
+
+This repository contains the dataset and code for our IEEE TAFFC 2023 paper: [Multimodal Emotion-Cause Pair Extraction in Conversations](https://ieeexplore.ieee.org/document/9969873)
 Please [**cite**](#Citation) our paper according to the official format.
 
 🌟 Our **task paper** for SemEval-2024 is available [here](https://aclanthology.org/2024.semeval2024-1.273).
