@@ -9,6 +9,12 @@ Please [**cite**](#Citation) our paper according to the official format.
 
 🌟 We have organized a SemEval task based on our ECF dataset and extended it with additional evaluation data. Welcome to participate in our competition. Visit [SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/). 
 
+## Dataset
+
+To access our dataset ECF, please refer to the [data](https://github.com/NUSTM/MECPE/tree/main/data) folder or [Hugging Face](https://huggingface.co/datasets/NUSTM/ECF).
+
+❗️❗️❗️ Please ensure that the data is used exclusively for research purposes!
+
 ## Dependencies
 
 - Python 3.6.9 (tested on cuda 10.2 and NVIDIA RTX TITAN)
