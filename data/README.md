@@ -32,13 +32,14 @@ For example, the line `4 | Joey | surprise | Instead of ... ? | train_dia559_utt
 
 ### About Multimodal Data   
 
-⚠️ Due to potential copyright issues, we do not provide pre-segmented video clips. 
+⚠️ Due to potential copyright issues, we cannot provide pre-segmented video clips from the TV show "Friends". 
 
 If you need to utilize multimodal data, you may consider the following options:
 
 1. Use the acoustic and visual features we provide:
     - [`audio_embedding_6373.npy`](https://drive.google.com/file/d/1EhU2jFSr_Vi67Wdu1ARJozrTJtgiQrQI/view?usp=share_link): the embedding table composed of the 6373-dimensional acoustic features of each utterances extracted with openSMILE
     - [`video_embedding_4096.npy`](https://drive.google.com/file/d/1NGSsiQYDTqgen_g9qndSuha29JA60x14/view?usp=share_link): the embedding table composed of the 4096-dimensional visual features of each utterances extracted with 3D-CNN
+    - Please note that the above features only include the original ECF (1.0) dataset; the SemEval evaluation data is not included. If needed, you can contact us, and we will do our best to release new features.
 
 2. Since ECF is constructed based on the MELD dataset, you can download the raw video clips from [MELD](https://github.com/declare-lab/MELD). 
 Most utterances in ECF align with MELD. However, **we have made certain modifications to MELD's raw data while constructing ECF, including but not limited to editing utterance text, adjusting timestamps, and adding or removing utterances**. Therefore, some timestamps provided in ECF have been corrected, and there are also new utterances that cannot be found in MELD. Given this, we recommend option (3) if feasible.
